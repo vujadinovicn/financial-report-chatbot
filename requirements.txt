@@ -1,3 +1,5 @@
 langchain-community
 python-dotenv
 neo4j
+pandas
+beautifulSoup4
